@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Messing around with Jekyll"
+excerpt: Just playing around with Jekyll to set up a quick personal site; probably back to pie-related nonsense some other time.
+
 ---
 
 # Pies now, probably more pies later
